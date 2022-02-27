@@ -1,4 +1,4 @@
 # LaunchX - FrontEnd - Practica de la seman 1
 
 ## AbogaBot
-![AbogaBot](resources/bot.jpg){width=80 height=80}
+![AbogaBot](resources/bot.jpg){width='40px' height='40px'}
