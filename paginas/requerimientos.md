@@ -46,7 +46,6 @@ Términos de Referencia
 
 | Alcance de la solución  | Realizar un desarrollo funcional mediante un sitio web que permita recabar información del cliente y su pago para brindarle seguimiento a cada caso |
 | ----------------------- | ----------------------------------------------------- |
-| Requerimientos Funcionales y criterios de aceptación y | - El sistema debe poder registrar los datos del usuario. <br>- El sistema de poder procesar los pagos
-- El sistema de poder generar un archivo de Word con la información recibida
-- El sistema debe notificar por correo electrónico las actualizaciones hechas por el administrador
-|
+| Requerimientos Funcionales y criterios de aceptación y | - El sistema debe poder registrar los datos del usuario.<br>- El sistema de poder procesar los pagos.<br>- El sistema de poder generar un archivo de Word con la información recibida.<br>- El sistema debe notificar por correo electrónico las actualizaciones hechas por el administrador. |
+| Requerimientos no Funcionales y de calidad | Compatibilidad<br> -Funcionalidad |
+| Interesados en la solución | Desarrollador: Interpretará los requerimientos del cliente y lo llevara la codificación necesaria para llevarlo a cabo |
