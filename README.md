@@ -25,6 +25,7 @@ seguimiento de cada una de las actualizaciones del proceso legal.
 > - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
+
 ## Practicas
 
-* [Requerimientos](paginas/requerimientos.md "Requerimentos de software")
+* [Requerimientos de Software](paginas/requerimientos.md "Requerimentos de software")
