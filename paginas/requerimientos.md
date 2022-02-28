@@ -37,4 +37,4 @@ Descripción de la Solicitud
 Modelamiento de Negocio
 ```
 
-![BMN](/resources/Modelo de negocio.png)
+![BMN](/resources/MBN.png)
