@@ -27,4 +27,4 @@ seguimiento de cada una de las actualizaciones del proceso legal.
 
 ## Practicas
 
-* ![Requerimientos](paginas/requerimientos.md "Requerimentos de software")
+* [Requerimientos](paginas/requerimientos.md "Requerimentos de software")
