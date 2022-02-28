@@ -49,3 +49,5 @@ Términos de Referencia
 | Requerimientos Funcionales y criterios de aceptación y | - El sistema debe poder registrar los datos del usuario.<br>- El sistema de poder procesar los pagos.<br>- El sistema de poder generar un archivo de Word con la información recibida.<br>- El sistema debe notificar por correo electrónico las actualizaciones hechas por el administrador. |
 | Requerimientos no Funcionales y de calidad | Compatibilidad<br> -Funcionalidad |
 | Interesados en la solución | Desarrollador: Interpretará los requerimientos del cliente y lo llevara la codificación necesaria para llevarlo a cabo |
+| Requisitos Técnicos | - Tipo de desarrollo: Web<br>- Base de Datos: MySql<br>- Lenguaje: JavaScript |
+| Viabilidad Técnica | SI |
