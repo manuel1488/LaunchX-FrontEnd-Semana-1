@@ -29,3 +29,5 @@ seguimiento de cada una de las actualizaciones del proceso legal.
 ## Practicas
 
 * [Requerimientos de Software](paginas/requerimientos.md "Requerimentos de software")
+
+* [Buyer Persona](paginas/buyer_person.md "Buyer Persona")
