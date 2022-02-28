@@ -31,3 +31,5 @@ seguimiento de cada una de las actualizaciones del proceso legal.
 * [Requerimientos de Software](paginas/requerimientos.md "Requerimentos de software")
 
 * [Buyer Persona](paginas/buyer_person.md "Buyer Persona")
+
+* [Publico Objetivo](paginas/publico_objetivo.md "Publico Objetivo")
