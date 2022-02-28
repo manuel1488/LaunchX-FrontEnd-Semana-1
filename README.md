@@ -23,3 +23,8 @@ seguimiento de cada una de las actualizaciones del proceso legal.
 > - La página debe de ser responsive para poderla ver desde el celular.
 
 > - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+
+## Practicas
+
+* ![Requerimientos](paginas/requerimientos.md "Requerimentos de software")
