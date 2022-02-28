@@ -37,4 +37,4 @@ Descripción de la Solicitud
 Modelamiento de Negocio
 ```
 
-![AbogaBot](../resources/Modelo de negocio.png)
+![BMN](../resources/Modelo de negocio.png)
