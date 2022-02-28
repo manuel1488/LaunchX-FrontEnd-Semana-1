@@ -1,3 +1,4 @@
 # BUYER PERSONA
 
-xfun::embed_file("/resources/Buyer_Person.pdf")
+
+<embed src="/resources/Buyer_Person.pdf" type="application/pdf">
