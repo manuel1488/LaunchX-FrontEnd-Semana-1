@@ -12,7 +12,8 @@
 | Dependencia(s) Solicitante: | Proyectos |
 | Responsable Funcional designado por el equipo de desarrollo de software: | Manuel Alfaro Espinoza |
 
-\
+<br>
+
 ## 2.	FASE DE FORMALIZACIÓN
 
 ```sh
