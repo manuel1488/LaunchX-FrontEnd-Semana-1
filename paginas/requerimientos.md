@@ -38,3 +38,17 @@ Modelamiento de Negocio
 ```
 
 ![BMN](/resources/MBN.png)
+
+
+ ```sh
+Términos de Referencia
+```
+
+| Alcance de la solución  | Realizar un desarrollo funcional mediante un sitio web que permita recabar información del cliente y su pago para brindarle seguimiento a cada caso |
+| ----------------------- | ----------------------------------------------------- |
+| Requerimientos Funcionales y criterios de aceptación y | 
+- El sistema debe poder registrar los datos del usuario.
+- El sistema de poder procesar los pagos
+- El sistema de poder generar un archivo de Word con la información recibida
+- El sistema debe notificar por correo electrónico las actualizaciones hechas por el administrador
+|
